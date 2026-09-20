@@ -1,0 +1,14 @@
+Metric,Value
+Customers in Base,7043.0
+Baseline Churn Rate,0.2653698707936959
+Baseline Churners per Cycle,1869.0000000000002
+Model Recall,0.8262032085561497
+High-Risk Customers Targeted,724.0
+Average Customer Value,777.1403095271902
+Total Revenue at Risk,491820.09660000005
+Expected Saved Revenue,147546.02898
+Campaign Cost,10860.0
+Net Benefit,136686.02898
+Retention ROI (%),1258.6190513812155
+Expected Retained Customers,463.25213903743315
+Projected Churn Rate,0.1995950391825312

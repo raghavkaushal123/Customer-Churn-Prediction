@@ -1,0 +1,6 @@
+customerID,ChurnProbability,RiskTier,ReasonCode1,ReasonCode2,ReasonCode3
+7216-EWTRS,0.769,High Risk,numeric__tenure increased churn risk,categorical__Contract_Month-to-month increased churn risk,categorical__InternetService_Fiber optic increased churn risk
+5178-LMXOP,0.7667,High Risk,numeric__tenure increased churn risk,categorical__Contract_Month-to-month increased churn risk,categorical__InternetService_Fiber optic increased churn risk
+9300-AGZNL,0.7663,High Risk,numeric__tenure increased churn risk,categorical__Contract_Month-to-month increased churn risk,categorical__InternetService_Fiber optic increased churn risk
+5419-JPRRN,0.7661,High Risk,numeric__tenure increased churn risk,categorical__Contract_Month-to-month increased churn risk,categorical__InternetService_Fiber optic increased churn risk
+9497-QCMMS,0.7657,High Risk,numeric__tenure increased churn risk,categorical__Contract_Month-to-month increased churn risk,categorical__InternetService_Fiber optic increased churn risk

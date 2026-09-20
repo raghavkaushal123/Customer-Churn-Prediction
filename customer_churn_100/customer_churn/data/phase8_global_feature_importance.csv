@@ -1,0 +1,21 @@
+Feature,Importance
+categorical__Contract_Month-to-month,0.24651782
+categorical__Cluster_Cluster_3,0.1466794
+categorical__Contract_Two year,0.07833753
+categorical__InternetService_Fiber optic,0.061360486
+categorical__TenureBand_0-6 months,0.033663742
+categorical__InternetService_DSL,0.033369854
+categorical__PaymentMethod_Electronic check,0.027497174
+categorical__Contract_One year,0.026866019
+categorical__InternetService_No,0.026722632
+numeric__tenure,0.018275624
+categorical__StreamingMovies_Yes,0.018114973
+categorical__StreamingMovies_No,0.016650401
+categorical__PaperlessBilling_No,0.014001453
+categorical__OnlineSecurity_Yes,0.013740226
+categorical__OnlineSecurity_No,0.013385452
+numeric__MonthlyCharges,0.0126431445
+categorical__ValueTier_Medium,0.0124005405
+categorical__PaperlessBilling_Yes,0.0111231245
+categorical__StreamingTV_Yes,0.009749121
+categorical__StreamingTV_No,0.009027341
